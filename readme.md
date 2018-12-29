@@ -2,7 +2,9 @@
 
 ### 说明：
 
-- <span style="color:red">以下题目都是编程题，上网查资料独立完成以下题目；程序和运行**结果截图**或者把对应的Github代码仓库地址在Boss直聘上发给我</span>
+- <span style="color:red">以下题目都是编程题，上网查资料独立完成以下题目；</span>
+
+- <span style="color:red">程序和运行**结果截图**或者把对应的**Github代码仓库地址**在Boss直聘上发给我</span>
 
 - **<span style="color:red">题目不需要全部都做，只做你擅长的编程语言对应的题目。</span>**
 
