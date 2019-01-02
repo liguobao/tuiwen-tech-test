@@ -60,7 +60,13 @@ python gen_data.py 100000 > data10.txt
 
 2.2 程序运行得很慢，有没有优化的方法？
 
+### .NET Core
 
+1. 完成 .NET Core REST风格的web api 对书籍资源(字段:name,cover,intro,author)的CURD,并且使用Docker容器化打包部署
+
+2. 使用.NET Core 完成模拟登录博客园,获取个人信息输出到控制台
+
+3. 使用.NET Core 完成QQ互联/微博互联 OAuth2.0登录
 
 ### 算法
 
