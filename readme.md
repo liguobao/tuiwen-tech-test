@@ -68,6 +68,24 @@ python gen_data.py 100000 > data10.txt
 
 3. 使用.NET Core 完成QQ互联/微博互联 OAuth2.0登录
 
+### SQL
+
+表字段如下:
+
+- student: id, name, gender, age, college_id
+
+- college: id, name
+
+- course: id, name, type
+
+- student_course: id, student_id, course_id, score
+
+1. 写出以上表对应建表SQL语句
+
+2. 编写SQL语句计算每个学院的每门课的平均分
+
+3. 编写SQL获取只选了一门课的学生数据
+
 ### 算法
 
 写一个程序，计算第n个斐波那契数列。当 n 很大的时候，程序运行很慢，请仔细看下面的程序优化过程，并总结一下都做了哪些优化。是否还能在这个文章的基础上，继续优化。（查资料，总结技巧，不用编程）
